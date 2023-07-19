@@ -41,8 +41,8 @@ if portal == "Client Portal":
     # Client sign-in and balance check
     st.markdown("### Client Sign-in :rocket:")
 
-    account_address = st.selectbox(
-        "Select Client Account", options=accounts)
+    account_address = st.text_input(
+        "Input Client Account")
     if st.button("Sign-in"):
         if contract.functions.isUser(account_address).call({'from': account_address}) == True:
             st.success("You are signed in!")
@@ -126,8 +126,8 @@ else:
 
     st.markdown("### Sending or Withdrawal of funds :moneybag:")
     company_amount = int(st.number_input("Amount (in Wei)"))
-    client_address = st.selectbox(
-        "Select Client Account", options=accounts)
+    client_address = st.text_input(
+        "Input Client Account")
 
     # Display Client Data
     if st.button("Display Client Data"):
@@ -221,7 +221,7 @@ else:
                 "Client already exists. If needing to update user name and/or email address please use 'Update Client' instead")
         else:
             contract.functions.insertUser(
-                c_address, c_lname, c_fname, c_email, c_portfolio, 0).transact({"from": company_account})
+                c_address, c_lname, c_fname, c_email, c_portfolio, 0)
             st.success("Client Added")
 
     # update an existing client
