@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Projects/mwp_enhanced/modeling2/mlruns/352293449644587622/ba98ef3c22614fbdae86ad14f2d14fde/artifacts
+end_time: 1683297823108
+entry_point_name: ''
+experiment_id: '352293449644587622'
+lifecycle_stage: active
+run_id: ba98ef3c22614fbdae86ad14f2d14fde
+run_name: SVM - Linear Kernel
+run_uuid: ba98ef3c22614fbdae86ad14f2d14fde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683297822325
+status: 3
+tags: []
+user_id: root

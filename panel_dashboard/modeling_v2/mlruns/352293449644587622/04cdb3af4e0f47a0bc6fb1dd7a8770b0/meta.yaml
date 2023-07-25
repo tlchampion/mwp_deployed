@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Projects/mwp_enhanced/modeling2/mlruns/352293449644587622/04cdb3af4e0f47a0bc6fb1dd7a8770b0/artifacts
+end_time: 1683297824950
+entry_point_name: ''
+experiment_id: '352293449644587622'
+lifecycle_stage: active
+run_id: 04cdb3af4e0f47a0bc6fb1dd7a8770b0
+run_name: Quadratic Discriminant Analysis
+run_uuid: 04cdb3af4e0f47a0bc6fb1dd7a8770b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683297824407
+status: 3
+tags: []
+user_id: root

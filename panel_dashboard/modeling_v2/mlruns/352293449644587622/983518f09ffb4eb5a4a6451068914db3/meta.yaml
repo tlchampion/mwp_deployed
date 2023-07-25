@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Projects/mwp_enhanced/modeling2/mlruns/352293449644587622/983518f09ffb4eb5a4a6451068914db3/artifacts
+end_time: 1683297813001
+entry_point_name: ''
+experiment_id: '352293449644587622'
+lifecycle_stage: active
+run_id: 983518f09ffb4eb5a4a6451068914db3
+run_name: Linear Discriminant Analysis
+run_uuid: 983518f09ffb4eb5a4a6451068914db3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683297812455
+status: 3
+tags: []
+user_id: root

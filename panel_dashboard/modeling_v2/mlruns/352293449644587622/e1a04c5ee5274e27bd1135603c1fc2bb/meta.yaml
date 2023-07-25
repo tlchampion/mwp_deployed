@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Projects/mwp_enhanced/modeling2/mlruns/352293449644587622/e1a04c5ee5274e27bd1135603c1fc2bb/artifacts
+end_time: 1683297820918
+entry_point_name: ''
+experiment_id: '352293449644587622'
+lifecycle_stage: active
+run_id: e1a04c5ee5274e27bd1135603c1fc2bb
+run_name: Extra Trees Classifier
+run_uuid: e1a04c5ee5274e27bd1135603c1fc2bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683297820141
+status: 3
+tags: []
+user_id: root

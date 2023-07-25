@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Projects/mwp_enhanced/modeling2/mlruns/352293449644587622/4d43bfb50ff44adaa7ce2ee637b3758e/artifacts
+end_time: 1683297818386
+entry_point_name: ''
+experiment_id: '352293449644587622'
+lifecycle_stage: active
+run_id: 4d43bfb50ff44adaa7ce2ee637b3758e
+run_name: Extreme Gradient Boosting
+run_uuid: 4d43bfb50ff44adaa7ce2ee637b3758e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683297817438
+status: 3
+tags: []
+user_id: root
