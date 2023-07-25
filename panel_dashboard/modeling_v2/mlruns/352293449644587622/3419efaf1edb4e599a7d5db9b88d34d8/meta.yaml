@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Projects/mwp_enhanced/modeling2/mlruns/352293449644587622/3419efaf1edb4e599a7d5db9b88d34d8/artifacts
+end_time: 1683297819644
+entry_point_name: ''
+experiment_id: '352293449644587622'
+lifecycle_stage: active
+run_id: 3419efaf1edb4e599a7d5db9b88d34d8
+run_name: Random Forest Classifier
+run_uuid: 3419efaf1edb4e599a7d5db9b88d34d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683297818894
+status: 3
+tags: []
+user_id: root

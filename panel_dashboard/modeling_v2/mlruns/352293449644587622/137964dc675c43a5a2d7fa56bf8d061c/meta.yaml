@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Projects/mwp_enhanced/modeling2/mlruns/352293449644587622/137964dc675c43a5a2d7fa56bf8d061c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '352293449644587622'
+lifecycle_stage: active
+run_id: 137964dc675c43a5a2d7fa56bf8d061c
+run_name: Session Initialized a7e4
+run_uuid: 137964dc675c43a5a2d7fa56bf8d061c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683295963377
+status: 1
+tags: []
+user_id: root

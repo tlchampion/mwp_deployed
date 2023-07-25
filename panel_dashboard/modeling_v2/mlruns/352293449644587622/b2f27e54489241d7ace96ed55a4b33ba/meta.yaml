@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Projects/mwp_enhanced/modeling2/mlruns/352293449644587622/b2f27e54489241d7ace96ed55a4b33ba/artifacts
+end_time: 1683297824099
+entry_point_name: ''
+experiment_id: '352293449644587622'
+lifecycle_stage: active
+run_id: b2f27e54489241d7ace96ed55a4b33ba
+run_name: Decision Tree Classifier
+run_uuid: b2f27e54489241d7ace96ed55a4b33ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683297823465
+status: 3
+tags: []
+user_id: root

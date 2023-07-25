@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Projects/mwp_enhanced/modeling2/mlruns/352293449644587622/3c6bd8437b89481fa87587f671127be7/artifacts
+end_time: 1683297821936
+entry_point_name: ''
+experiment_id: '352293449644587622'
+lifecycle_stage: active
+run_id: 3c6bd8437b89481fa87587f671127be7
+run_name: K Neighbors Classifier
+run_uuid: 3c6bd8437b89481fa87587f671127be7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683297821309
+status: 3
+tags: []
+user_id: root

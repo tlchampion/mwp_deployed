@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Projects/mwp_enhanced/modeling2/mlruns/352293449644587622/f8e4f2fcda704a44ada712bafb0229f7/artifacts
+end_time: 1683297811024
+entry_point_name: ''
+experiment_id: '352293449644587622'
+lifecycle_stage: active
+run_id: f8e4f2fcda704a44ada712bafb0229f7
+run_name: Gradient Boosting Classifier
+run_uuid: f8e4f2fcda704a44ada712bafb0229f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683297807240
+status: 3
+tags: []
+user_id: root
